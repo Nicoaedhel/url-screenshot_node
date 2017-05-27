@@ -1,0 +1,11 @@
+{
+  "name": "urlscreenshot",
+  "version": "1.0.0",
+  "description": "A cool package for https://url-screenshot.com",
+  "main": "index.js",
+  "author": "Screenshot API TEAM <hello@url-screenshot.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
